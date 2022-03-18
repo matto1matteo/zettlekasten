@@ -18,10 +18,10 @@ Follow this step:
     
     1.  [Set keyboard layout](../20220318125313/README.md)
     1.  [Generate and set a locale](../20220318130255/README.md)
-    1.  [Install a bootloader (GRUB2)]()
+    1.  [Install a bootloader (GRUB2)](../20220318130911/README.md)
     1.  Add password for root with `passwd`
     1.  Create a user (`useradd -m -G wheel -s /bin/bash`)
     1.  Set sudoers for wheel group
-    1.  [Set locale]()
+    1.  [Set locale](../20220318130255/README.md)
 
 1. Clean media tool
